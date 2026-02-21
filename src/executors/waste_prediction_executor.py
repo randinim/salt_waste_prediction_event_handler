@@ -2,7 +2,7 @@ from typing import Any, Dict
 from datetime import datetime
 from waste_predictor import predict_waste
 
-from constants.eventConstants import EVENT_NAMES
+from src.constants.eventConstants import EVENT_NAMES
 from .base_executor import BaseExecutor
 
 
